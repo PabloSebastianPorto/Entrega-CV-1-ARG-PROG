@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500&family=Yellowtail&display=swap");
+* {
+  font-family: "roboto";
+  margin: 0;
+  padding: 0;
+}
+html {
+  scroll-behavior: smooth;
+}
+.inicio {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3))
+    url(<https://es.vecteezy.com/arte-vectorial/2207821-fondo-de-tecnologia-moderna-azul-oscuro);
+  background-size: cover;
+  background-position: center center;
+  color: #fff;
+}

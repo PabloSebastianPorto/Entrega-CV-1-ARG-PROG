@@ -1,0 +1,44 @@
+p {
+  color: red;
+  width: 300px;
+}
+/**
+Esto es un comentario dentro de un documento de CSS
+*/
+
+h1 {
+  font-family: "Bungee Spice", cursive;
+  font-family: "Roboto", sans-serif;
+  border: 2px solid red;
+  padding: 5px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-top: 20px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+section {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+#mi_parrafo {
+  color: rgb(70, 70, 14);
+  font-size: 23px;
+  border: 1px solid orange;
+}
+.estaesmiclase {
+  font-weight: bold;
+  color: lightblue;
+}
+.clase2 {
+  font-weight: bolder;
+  color: rgb(8, 87, 235);
+  font-style: oblique;
+}
